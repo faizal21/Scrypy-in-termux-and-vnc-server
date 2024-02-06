@@ -8,6 +8,7 @@ script di repository ini masih banyak kekurangan dan mungkin bisa di kembangkan 
 
 # instalasi termux
 untuk termux nya download di sini https://f-droid.org/id/packages/com.termux/
+
 untuk vnc viewer nya download di sini 
 https://play.google.com/store/apps/details?id=com.realvnc.viewer.android
 
