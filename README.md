@@ -7,6 +7,10 @@ script dalam repository ini dibuat untuk meremot modem hp yang sudah terhubung d
 script di repository ini masih banyak kekurangan dan mungkin bisa di kembangkan lagi
 
 # instalasi termux
+untuk termux nya download di sini https://f-droid.org/id/packages/com.termux/
+untuk vnc viewer nya download di sini 
+https://play.google.com/store/apps/details?id=com.realvnc.viewer.android
+
 ```
 pkg update && pkg upgrade -y
 pkg install x11-repo -y
